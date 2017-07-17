@@ -18,7 +18,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # حالا وقت نصب رباته. دستورای زیر رو به ترتیب توی ترمینال وارد میکنیم
 cd $HOME
-git clone https://github.com/Enigma-Team/TeleEnigma.git
+git clone https://github.com/aliaz001/TeleEnigma.git
 cd TeleEnigma
 chmod +x run.sh
 ./run.sh install
@@ -29,7 +29,7 @@ chmod +x run.sh
 ```
 #### نصب ربات به صورت یک دستور
 ```sh
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev && cd $HOME && git clone https://github.com/Enigma-Team/TeleEnigma.git && cd TeleEnigma && chmod +x run.sh && ./run.sh install && ./run.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev && cd $HOME && git clone https://github.com/aliaz001/TeleEnigma.git && cd TeleEnigma && chmod +x run.sh && ./run.sh install && ./run.sh
 ```
 
 #### رفع اررور
