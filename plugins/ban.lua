@@ -9,7 +9,7 @@
 	
 	****************************
 	*  >> By : Reza Mehdipour  *
-	*  > Channel : @EnigmaTM   *
+	*  > Channel : @Samyar7688   *
 	****************************
 	
 ]]
@@ -399,7 +399,7 @@ function run(msg,matches)
 			
 				user_id = msg.from.id
 			
-				return reply_msg(msg.id,"اطلاعات شما : \n\nنام : "..user_name.."\nنام کاربری : "..user_username.."\nآیدی شما : "..user_id.."\nلینک شما : "..user_link.."\n________\n[ @EniGmaTM ]",ok_cb,false)
+				return reply_msg(msg.id,"اطلاعات شما : \n\nنام : "..user_name.."\nنام کاربری : "..user_username.."\nآیدی شما : "..user_id.."\nلینک شما : "..user_link.."\n________\n[ @Samyar7688 ]",ok_cb,false)
 		
 			else
 		
@@ -820,7 +820,7 @@ patterns = {
 	
 	****************************
 	*  >> By : Reza Mehdipour  *
-	*  > Channel : @EnigmaTM   *
+	*  > Channel : @Samyar7688   *
 	****************************
 	
 ]]

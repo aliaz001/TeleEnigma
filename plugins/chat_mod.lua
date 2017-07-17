@@ -9,7 +9,7 @@
 	
 	****************************
 	*  >> By : Reza Mehdipour  *
-	*  > Channel : @EnigmaTM   *
+	*  > Channel : @Samyar7688   *
 	****************************
 	
 ]]
@@ -999,7 +999,7 @@ patterns = {
 	
 	****************************
 	*  >> By : Reza Mehdipour  *
-	*  > Channel : @EnigmaTM   *
+	*  > Channel : @Samyar7688   *
 	****************************
 	
 ]]

@@ -9,7 +9,7 @@
 	
 	****************************
 	*  >> By : Reza Mehdipour  *
-	*  > Channel : @EnigmaTM   *
+	*  > Channel : @Samyar7688   *
 	****************************
 	
 ]]
@@ -87,7 +87,7 @@ if (matches[1] == "راهنمای شارژ" or matches[1]:lower() == "helpcharge
 	end
 	
 	HelpChargeText = [[جهت شارژ گروه خود از طریق ربات زیر با ما در تماس باشید :
-@EnigmaSupBot
+@@Samyar35
 ➖➖➖➖
 یا در گروه پشتیبانی عضو شوید :]]
 	return reply_msg(msg.id,HelpChargeText.."\n"..SpLink,ok_cb,false)
@@ -127,7 +127,7 @@ local function pre_process(msg)
 				-- When Group Expired Do :
 				local data = load_data(_config.moderation.data)
 				send_large_msg(get_receiver(msg),GroupExpiredText)
-				send_large_msg("user#id"..GpOwner,"مدیر گرامی ، سلام\n\n🚫 شارژ گروه شما با نام "..msg.to.title.." تمام شده است. بات از آن گروه خارج شد.\n\n👈 برای تمدید ربات در گروهتان با ما در ارتباط باشید\n☑️ ☑️ در صورتی که ریپورتید به گروه پشتیبانی مراجعه کنید :\n> https://telegram.me/joinchat/DAXPpz_VwM5azabRHkmmBg")
+				send_large_msg("user#id"..GpOwner,"مدیر گرامی ، سلام\n\n🚫 شارژ گروه شما با نام "..msg.to.title.." تمام شده است. بات از آن گروه خارج شد.\n\n👈 برای تمدید ربات در گروهتان با ما در ارتباط باشید\n☑️ ☑️ در صورتی که ریپورتید به گروه پشتیبانی مراجعه کنید :\n> درحال ساخت")
 			
 				-- rem group
 				hashes = 'enigma:cli:mute_user:'..msg.to.id
@@ -211,7 +211,7 @@ patterns = {
 	
 	****************************
 	*  >> By : Reza Mehdipour  *
-	*  > Channel : @EnigmaTM   *
+	*  > Channel : @Samyar7688   *
 	****************************
 	
 ]]
